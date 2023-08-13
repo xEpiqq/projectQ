@@ -1,0 +1,711 @@
+POST /Orders/PxCTLReviewandVerificationPURL.aspx HTTP/2
+
+Host: asap.docxtract.com
+
+Cookie: ASP.NET_SessionId=wgx00exddqewzra5f3wbue2g; CTL_ASAP=28CC10F1A176AB2DACC8F7FFBD6C1C00F1B201FFC71C6046BE12266CBF2DD46BE9D9CCA65F74CC5FBFB82EE29AE32B695B98538A1F79047B9D098F0C59589231EF17A85A34FC5E565D99C7007E38B24BE88DC6D24F9670E288B4B92698DA41CA
+
+Content-Length: 11812
+
+Sec-Ch-Ua: 
+
+Sec-Ch-Ua-Mobile: ?0
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36
+
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+Cache-Control: no-cache
+
+X-Requested-With: XMLHttpRequest
+
+X-Microsoftajax: Delta=true
+
+Sec-Ch-Ua-Platform: ""
+
+Accept: */*
+
+Origin: https://asap.docxtract.com
+
+Sec-Fetch-Site: same-origin
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Dest: empty
+
+Referer: https://asap.docxtract.com/Orders/PxCTLReviewandVerificationPURL.aspx
+
+Accept-Encoding: gzip, deflate
+
+Accept-Language: en-US,en;q=0.9
+
+
+
+ctl00%24radScriptManager=ctl00%24ContentPlaceHolder1%24ctl00%24ContentPlaceHolder1%24rapModalPanel%7Cctl00%24ContentPlaceHolder1%24ibtnContinue&ctl00_radSSM_TSSM=%3BTelerik.Web.UI%2C%20Version%3D2022.1.302.45%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D121fae78165ba3d4%3Aen-US%3A519a718b-c62d-4bf2-9a78-90a0aad13e14%3Aed2942d4%3A45085116%3Ac17ca3a3%3BTelerik.Web.UI.Skins%2C%20Version%3D2022.1.302.45%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D121fae78165ba3d4%3Aen-US%3Aee3accd3-1dc8-49b9-ba82-8c95870b0665%3A9d2dd5a2&ctl00_radScriptManager_TSM=%3B%3BSystem.Web.Extensions%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D31bf3856ad364e35%3Aen-US%3A5bc44d53-7cae-4d56-af98-205692fecf1f%3Aea597d4b%3Ab25378d2%3BTelerik.Web.UI%2C%20Version%3D2022.1.302.45%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D121fae78165ba3d4%3Aen-US%3A519a718b-c62d-4bf2-9a78-90a0aad13e14%3A16e4e7cd%3A33715776%3Af7645509%3A24ee1bba%3Ae330518b%3A2003d0b8%3Ac128760b%3A1e771326%3A88144a7a%3Ac8618e41%3A1a73651d%3A333f8d94%3Aed16cbdc%3Aa7e79140%3A9151b61d&__EVENTTARGET=ctl00%24ContentPlaceHolder1%24ibtnContinue&__EVENTARGUMENT=&__LASTFOCUS=&__VIEWSTATE=o3OpQ7jl2yLT2bH0xLb1NmpHBv0eLMenX4wKzKjjcpwXINrctF718dO3dnF5rqFxznsfGOI6frwglBVbSdPERgvDp5PutRt9Kq3SKCoyAdCqC1oN1u5021O8u4f2nkABZCVEhP%2BLKq453YKUffiZXBjKJVHQukUgYvtSxjTfFqA1Q8MtDWkdxSOz%2F5uZFM8jytvuLw3NhE%2FE5w%2BkKGaTBmDrgbCIyw0m8L%2BTwnOloO2pqEclYdZsbeVSFpEMYgqOOcxpQYEI6Hg%2FUMqRanOSas5eRVx9ewf2oLUEWhcHrqLgZohFUwh79Ct3Wd%2FUFCCxCnppoWTiBRRoDxzz2DREHKJXen%2BP4vTrsBUjvdYksvbM7%2FxKTt8dWlw%2FU0PHfDNJdfZ9FCSLzwQ1T7A7OBNCWreJK4w2iCbEzbfc%2F1LLuu4gvubsLG9eTHNLOfgGk2LYRTbF20SGroN7nQrpctB0z6z9SnJxJKNdwduQvneB1mSOA0bAClgyFqNvwOmwzSlqPgNeYwLixdUiJiTJoShVTg%2B29IiCEjmsFg%2Bsn2pltByvW58s67RdeSXgaroFeAutSoqmpI2Z5L%2FXTMAZWwgD8UqOgzgmktEiPKaYi6IZvOc1NMzv1%2FASTzwy45zxtxIkJyPBm2ESEDHfVNEurBIz8%2FuYOOcVHhREhaYXjzOw%2BgjUPe6owM4Mm05iFqTTEVDr2Jaaf%2F3kBMqq8TjwI1S2Lizpvj4fK%2Fr0ubwKuQQV4mXW4LpnVUZzQuahhxvduMIW02FiPfv3bRWRfk8JRCbSp25La0qdCzt%2BNj58XOT9r9dLwnRoMLDrPgsxFPVlrI0i28W6sVgVGteAhekFKs7Qad728PEBdm4S10Exj%2BzjJ0KM3wpUycFrxBLvmfenj%2BaC%2FcS7zVtmFMmkZE8ESGUgn2XJoz%2BPwDCiKfLoUpeWeeeGJxlFrOswGMhLCKQOyX6BnOoFDW3lDoY%2B84rvPNa6jZUhJy28Jh6K8xuJAbH59KfNWzQF%2BnZmvBfak4dsqHXJkkKXCAsHdbAgwYWsjgC%2BWVBvjscBqxN6tuN9lCaa5VhvfxkyinHFAkTMj3NODPWNFTcynz8ppBUl0Elr7bSsLuj6uCjYnAwHdoCnLM4PldRYHjIaojv0Uwhkab6OwJpkMoQSG1%2BCXq%2BF0yVP7sqi4R1rq4KhizvhdftYV4Rp0q%2FbJp6X%2BszF2O%2BCdrZ0mHbT21%2B2dkPfToFsG%2FLDZLiriCjP73vQExp1LJO4EcVlDF93LECLX8vWnzD5n8CIw0HOeGpZKGOYfP%2Fz4hCSxawmXIawrWac47u0JGDzqre3jwQH%2Bvm5nIxDwOIi1jipxX8TJdTjxokyiCW5Ji41eUIDJMzNYGVetLp8SrzUFdOGJCTXFo%2F8lWqkGYIoYqEZXwMkRKBSw6NFaCwnO25pjEcytIRkllMSazel7uaI5dq81NLJnlDcEUD3rYaKrnGvG%2BVORLvuJNY9gWk0ISv2JkdkHh1Xh%2FxcBKlC2gXAn8ge9geZC7YuxoAVRYi%2Bmq1Ra0RIIj3dIAVSC9ChFUzrth9hqJO%2BDpjA%2F5ijlb%2FTTIZDkMSqDudrazGKC4QyFcyGOIfl%2BH04zFTqdn2j4iq0J%2Fw%2BRJj8AaZJvymm%2BtCYGkqNLSSvvhHhEPqJO4PM6YBysirzl5b3fXxmitYV4JgOfiT7pT3bGQFNGHAlzHKFpFdc4u1M777hMSE%2BJuFdlFWXNwieHyVRFzGPv62jdWXJFvBJjqAgSBV4QbilD1o%2FsysAK9c3yMYIkeom4lTGlV35yZYQWlsG6kll4hBe1QHoZ4EttsyBOsW5%2ByVWOBzlj11YBn91djbScqSRc877BNI89gY8q8wisfJklRv74%2BSED47vC%2Bkw3qoRJjGXfw2ENNnfaXoCNPzEUk5Qp1FQNCwIRcAGyn9mVq0Zb8UCWaYaYr9VBZIHAYcowesI60Y0XMDno5KyknX0Qtfelms1z1ZLV3ZoDP7rKkD41uK8eMwB1JmLA8Mb0qQ7nvKiHiAILhO5dci6FJ4pXhfgZ3s3NnFj0l5T9AiY2jsdSIQGs6xKxHOia5N3CDg9pNa8k6LGCMOTTtfGqj9Pz50NS%2BpO%2Fa7fiVGtcGp3JrZXT5vBNE1srwWBj87UV9NJ8f6GgTw678rsy3waA%2FgsEPzhtfTla5OqWB7DJHhA8o9HdoYCJTV2qQZaXLS93eyUs0XPrxL0RVS3yRKKn3fgw2Y1ySmWbRB9PfDhYW8AXNGeTW2asBa%2Bh%2B%2BTUm7AKn0aUCEYHIMqcZeft1QDNAnXL0lKFOHITC3plQX9FTuNPLTSYI1M6y0lx9UeXT8%2BjuyllniHpBgu43B1DHtlIvMC54h%2BeoaO%2FXJY9tsZpRrqTjOi%2B7v6LRRIReyLLX0pqO78NqNsR%2F%2BDsV6knuloyTsFAQlIFC4xewGWDUHI6wTFgpHF%2BPFm8Mj7%2F8RMHmchpgC7QrEbohb2GtMZVJ71bWnh%2FZQcuOGXruJlYwY7LjZGizr6I4xFEp5D37DK76YB5JDF08ikDq1rImXlsTgCfbDWxRZ36qQuBI74HE%2FLXX8oIWmWBJMNTm0AecbhbcVWP9B9K6MNSNqmS3BFDZcyUfXqgSU2PeNLqXBG2nqHnYJxgozkFuRkYeE2WHcYGm%2BcCTPiNBXMYWj3dWMaL3v%2BrZiVDQprFaXA6H51q0MuVufTb6i0n6yxegBnNZI1bE49ZQZ%2BrwD7GuWaY3E7TXBx1eOTkTgi%2F9xd00amjygsJroub6TZiCtpwvgj9KpZBvFMYI5FfF8x8Ii%2BT%2BPGHAGwXBLNIEzb1EjlFtivpFuAEcgyFEQnJ8kaunGHneoXN4jVULs9Zp6%2Fie8Z2fjQENYSNr4KETCYJVe%2FEFySToxgFKrx9l2XhPZ4S%2B%2BkOZu9wqRR%2F39Tmd15%2BxKtTaqtSss4qFgVawVjfUBVVe%2F0w%2FsBFPQJiwrx%2B%2FewnIUeiR1txzX45aolhk9DBOU88AAHampzGrs8G3LAIzioiuZPqteCkHX79guYn%2F7d6SydKsqHcmqCgaBFxBnEQWq4%2FIg5O8wQ6c1BY3VZmZVhUobhHhBQUhM7S%2FrH6YCFbWpvWJmYh7uEjnML5rct4IW84moqzAzskZV%2FXl1VzH6emnPyGReicutue0fRWQqTbdkZTkbsSzmh2gcedo1aeMlDLbbu%2BmNbqBzx7gflt9dHEp5OIMF1sTfDkbaAbRbjAPzKfPaidavDC%2FFXVYKb5JtGI8kFY1SjVKuQc7F9FsC0nDxcFzcOXi3xEyfdbfVkqnVA7aaBZZh8yyouAWdQtDbphVGHkRtxw%2BpLTLktFVTjL62K5lnFVxf5OvEWOdGEeX1AxzXJA2gz%2BHYYIZOQAStz%2B2gKXAMjcDNpGzvyz8LsEDzfmZwHaN3U7BQOoXBWqdtGDFaleEO92wENCYK4GBoH0Tcc9ubM2LcnIgdCCL5xe%2FzQvI%2BHci%2F2BamMc8gbBi2rFE4yBaWTuKX6%2FqfQR%2FWB5MOAfNJNk2IxgWSuGWsQRuEL%2B3AtpIPI1dhlaxDTPz7QO%2B4gnOun6yAa495u9Sm7EvQJlHuSO1MD82%2FQ3bXHthG9sPec%2FHL%2FwkNDaXHZxBuXiDg7GIh5n96oAU%2BcAomMNnlU46Nl9xbBhJoEML1KaJCU42m3BP728B8apKesd%2BV%2Bwd5GCiQAJFkF%2F9CfJvqiwBkZrHa7MCXG0WpNAj3oTDU8JkyoKk1b8%2BHMYt5xcQgYFA%2FN8eJMHZPgvf6JkOvPpx6QrlfUBFy%2FdnktDU7WkR%2BNhXgnIR2nCxuqCv4uYrNas8b6J%2FkN334IGMWZcdYohT1fA63MF1ohd9GJcYUhhMDFMk3zxypJ3N3eD5uNiqSNDQ5sdS8%2FY5Vh6YA6roh2CxDNulLJ5qUuS1R%2FS2CgdDgk%2B2RX%2BtVaW80s2y3HGQtC5FsyAIt%2FSxNOKfro1mZXg8hQYznNEV4czCuiTzcjstGgcjuBCaZMJOonoHx9gSCD9D5Zz0TGoqGpxRRxD2dFtu5Q8yiqxV%2FhsdW%2B9rKHKtBZtUphDE7MiWxBLL2V98orSv%2BLruSdVPwMmfnCjuWMCaf8CWXgAv%2BYW1ddf%2F1UbNYo7Yq3ULURuUfArv6YvUkoYhFWO1RcTc3dda5eI4EMLK8Anh0rYv%2FX6jX1lo%2FD5MWV%2BsWdl7Kx0mFDSgg3VPjGuM946hkr7bDVCSeHw%2Bm5Zl4KfbZtN2Rmy8OWPYE03ZX5GwmwHa3aOZu%2BhICdsiu%2B1kVeL%2B1Y%2FTyzllcW70IE3WXw5RSlf6WryJZ7HDxVPlf5Lu1ciKd2uM4mP5cBkDMuTP98rNMIr0W6l6lKobRiEa8DX6vR4tPloABv8V49eD1D01Ft3iH5obRFj7tsNbZh%2BeHG%2BWXh1%2BG1zyB8XCtdY6Ts59JJoV0wNR4gjwtq9Gyiispn7B325GX%2BoBbUUYuHgMsKc7%2FBEOcqqUKBnXv%2BnpIIaGNnu%2FmgQ2neF6SCbcmVqQEAQVnmqCF3ov%2BIGQD0zCS%2FVWD2ii%2FFbaD98yl%2F60%2BCzSUk0JgsMclLyKneeAtuRS43NwBohc6XH79I8IVKQr8RUg6AiRhrQ%2F9ZQSkeX22dF0GSSpgrFXfMLAk23VOpomJZPVjpNeC7yZ34AXMcrG7h9m9qhdQ4EsuOgnJOYDzf3edUNuxEWw%2FxBzzO%2B%2Bnzfx88IrMi3Lvc8fYY22e14o5FN3Fp7yZqe2tSwPkjZ2BCnfpzokP5TU3Y9fs7K0bVlm7S4iOOPohczeEU%2BqfGOXdrLzd0KthDcYaproKvfo3YbagUIgjIEnCc9MkxX1UBGMGClPJHKSRRfkcg3ES%2Fk34joOcWOHgBqlzUBcyaxkmQEQQPSy%2FPqF3CRfWOEdRqzC9IYn6qzA9kA8jSkA9JmuClysx5ujs9YJEh8dkKh9GTVLVXF7p3Gnz1wmQaYp8t%2BQQmf5VJucWiptpdec8trjABkbEVADpXLAHJs8mC%2FPuvuqmxJUMWQH0ykVzB2Te742he9y2frlpcgumJfqzQmMXiHN9lZDhxTDJjF8pO22pZQLBHjbnyJBJTo6BWJj9%2FEupPI4EUGEQ4DBLx41oWlg7mRM127dI9l9S8viPGqhsrZGwjPcUKsOQ1CBwrH%2FjsVv3HIv6JCQUzpsEOWMsMvKnZp5%2Fm%2FZ%2FjeYe3xGtFx7v1TiIgOGyqKiwgPZ77EGtxj%2FCimlXghAEOxzI6%2Fdc97IZ1u9WxquyFlhtJmLzv1Rxd7FAIdawXMW4i%2BAxGT9mkWC5ZcEzWvzM46wb2KqJfogY5hP2j%2F7vhA2rmiMLv%2FWNd6OcbAs8FSj7a78ZZ9ZL5Kt709TCAqmynz3q45RH4Mpf2Qs82tSk61DQ5xvZCHI7Z2%2FwNZPq7IbuWCON9vSr0g6tksSlnxvulrZ18s55BwDHX0XDzAkEWm%2Fua1OkM8gVYCKlnocNJmzJYz7yGzsnl7V2gZcvFWDGiAM5M%2BV77687djD0emEQ4A8MZ7yYRd%2FwBQkgUkti6ORXA9tNKz91Vy2u83bHKEA18DmZ%2Fy5Kjey2X4J6i%2BTDt%2BwLb5Z6r6dL6S%2Bolj%2Bw40GbOZIYvaM6zP69vAm%2BzZruYS2%2BtYbJsBlyZ6Id%2BpjCQhGFu8PxMoMBHIg%2FER%2FTrjBOVlnjXEA7a1HU%2BgsovzmtIhHxtTOUvdcs%2F94FYuKj992ocvzA2eGxNn9cJ1ryoT0t3W%2BdhYAcBdUxILGCATdo5BusQkgoSFAD3LaEhfUmAZdnTmuqZyFmuVaLbBhVQfkA31qahJZljLNEFE4QffGRo0KL5E7fBdZJlRSGHckuhq%2BZo9Lpnmqe2iypEuV%2Bh640f2sNyENrQBzamo1AMDED2YOxs4OVOx9Bcxcgj7UQwppIT1HGSEr1ulpz7J0IfJSfoAASMNgCVj5bQMDICiC%2BpnQBGYqhccjyyPMxXv6rCjCz8RLIWu1UM6HZ9QYhpNHAsHOtEcz7%2B0Cf2W79sdU5bQuWBTZi0QkSSZ1KzytmVhJueETf5DuTe4JzCJhgQJyPqfu9WFAiK1X8IMhfAFnT4OufZlCpXgPIZ4gW1vYwhcwiOA%2FgagRwESmmL15Buwo68dc8YBn2bjW8pYMmeV9bJlNN8924HeyuVNiC0sUCiPeGmEpK%2FBZnJZWAF%2FTXMG3vpXbBzgC9%2BHm9NBvTHnvoSsSEYfrUFZPvV7qa3EXZr%2FBSDPmfk%2FvG8oZQQaJJ998YAkk%2B9weuyVT8WHaFlVgi46kKw5jwcAq52cOGK8WiO4247fEea08I25J0aYtRhJaIg%2FveCbUvv1X9l%2FsZwS5w9MIzlr6ItKWlrf9n1gwaJytOgNVQUhps%2FZZ8d7tKUvSRWINOP3VFTojf0qrQjvr%2Fv7ck7Z4766we7V4TkTtfaFNxTMPaqDCAwj2XhYpfpXmlneo8hB1ifpI2l5hJ7w3k6wc17ouT6h2GLnkruErgAt5KIVZ5wxeFzpjytboFz1O4sjBwKyKew6aFpmSZIL6iarzCwqOkvUNBnZXPXhNsAUROhp%2BZ2A048ImiJA2G0IQfH3rqIROJgD0uqjIDNAGjMxoszMc0tYv8ps0Z5xlk5FVFLVu5gjH72cuWXbUaB5KfXbamiNbZLh%2BHRDueEMxPAm6CF2lwNM0w4xs0N2nEwAb1LHEUmhRKN6DgN5g%2F55yZg8nwvhnt09jdL%2BRSGtoITIZOmTlqrRlqQSkGPXP9wxTP8iccSvd0%2FpSdyXMmYeArDY4ohgj77rjJtJTk4IpAVV0QppWHrCoV%2FCcT54gUODmCTJZvrwNOwkDIcYDadXPHivCqqPtFu8UIyuXlfesvxNluWTVLX7ay8gPhtL2ReFWtukzEGa8DXQOqFSUdif5e6%2FDXzhITG6fKlXhc1df1nQy6iAfURVHAiiIrUYBFSj3vkZRHric1cUjTr%2FBroIvIhXVSnkhGB9n30bcqCevXNCP0v52AseQna7QAtVGHD%2BaPD8VxcD1Zq1D4lJWDyKdpTSxyWkx%2FYGaswXF8G4gSIY8Wqo8o6br78d%2FUgB30Id461F0W8rxUn7Ho3CBljqDqTBMxC3VniyQoDnUfPInpixNA1%2Fl1Od2fyoNVO3%2B%2BBc5DENH4fDaoUs5q%2FJLY7z%2FOxcMQnQ%2FB9pCreDwI27vOGl0D5fABpWly56dE6XV4CKPhNEeFRcR90hz%2FBGJjuJpvjgaBMJ%2FDx8IGXNfsdtFRyNK9pTFemiZrvPlHQx7yOn10kmQ9Su1r63%2B%2BXUWE8MsNARqMS64nkJP3PKGAfweLVWUm3BxqLloLD4n8EPazZdONVDdVsf8HyJuwFdePK7GOcS85CWC6rvBkG04BrCepa12dyZUa1oNFGRnBbzAEElbY%2FPFnxArx0LaTCGrnYLJr5QTQrGKbZPqg10pcsuWmuFemQ5YvrRexr8MBpuCoIhLbOWGLQeLIqD1YOXbWtuvAY%2FC9A7XtF%2B772MdGSvaBqbejYav0%2BOq3b80f0jRMwG3825WiULvTbosT2I4KrZTxPR0Xm2rIiWgRE8gGaYJLY5MFsEF6%2Bj8r8toXDxN2hD0f92DFDuNV5AQ7jly7DcFBKj5nEhwtwTg8IssGljF4VTZn%2FyXYKT8eDI87OKYNj9FXfN%2BkPvBC4dDy7iGYDM8ZtXyD8BOtUYOgU6iRx5KQKhN6p0kqCfNo%2ByT%2F7cJG88Wv7TWfEV%2B6%2FmKD3t28JlpwI2VS4pq1mWcNVmmi78yVbCGQFNp7DdnhHCjEDYRu7pb2VzeSAw2gjrzjX3UqJRUXerSMZVGpdatn0LhE%2Fu3ffEi83RiDJWOIqYviltwRlTllLJVLCkeClFUeJBdFKHg9v2rKMppzh1OUWKShy%2BLUwk3%2BfNB%2FEJEu5A1jT21JN1r2EcosqHL3FvzFjp2Y%2BovAPY73V1H6Ccq5jVqdTOs86LlBu%2BQqOjMBVPQ9ijUBzLrxLxztPjU3PBSLhfLltySUmbWmv83xOPUr%2BuBdrTy4v9LWAiG0bMLCn1AC1eOcBdWrsTmWerOQ%2FaWs%2FmXxLUYfCTo5Cj2j63DpUQJZPrsxDeiGWVIV%2BTiHzf6UqGCWwDysvKkDjxdcZmR9dnvLSpOJx%2Fo6hPm53q2vEh9Ypeip%2BFUVpZSpspMYjpkuA0cJBWtYHBSdFT3ZjOXZ%2FJ%2BRq%2FCxlGe1doth8rJPKiyBykY67AgtSOt9wL1sRURQiCSsVatAfWna%2Fyw5VMsaQ625wAUldRFvFmHcaHFmlsEvLnJGoluGwqPbWfOfEpjcAWOvc2QxwPyE3bVAzmdnbiN7JAoSm6hb6LN%2BMzF4LjJxOxCBVAinGm%2Fpd4gjhYgZij%2BMTjP%2F9DU31S2u3dvHTbcoQv6SYN2YtWHbdxP%2F%2B3BkRxqcgy%2FEJH9ASzQiWXG8zFCt%2BwbydPHD8CSybukgrTu4FEYasrlKQHkry4rEKMdXgDRRG5lpR6DXvdhfQl98EsCF1xALV5Jpyn4hl1OOCk44vdfglH8H%2BMG2Z1jhvgGeLEC0iD9xwq6Ij7KnaOENs%2FOcAQb9gmNKZswuyx2uacQNyA3MIlt0onLQCy97LP6xg6AqZzbrgzoExRFyfotfWUgIJxzD8Dj52zrz6ozV8%2BlCzzJejUuUeuALArDZsA3JnjVNlb0UYylzAKY6Ngy%2F%2Bgwh2C375IfPRC2sxULUxGDQeyF92gndIlp0ob3C%2FtVtPusI19w4JC%2BzNS6Ooi09QIK2tiDbVnavG%2BUmcUCmYuKu5PhPmKgZvnuWva%2Bc1%2F3ssfPpq18%2BziSuu%2BDG%2F2zMPjlBHwgvHxxh2b6fMbKoblixMi4HvBM31%2Fptu23xNPxHZiYm%2BBefX6wEZpO9VZ8JzEye0TzfFBWj3KQoT3%2BWAYXSTgZonDHm4Ij3oag%2FT&__VIEWSTATEGENERATOR=24CD291C&__VIEWSTATEENCRYPTED=&__EVENTVALIDATION=%2Bv7xzQyB5HCzfmbK6WBUho4ZS57BZSYntYtMHFQxNRdSpqtO0UiiMIrTH0pFOwHLAkptWjl3KP2Rp6XStKtmB3yxJ%2FlrCrGyTc7u5ibcUVVwksN5NwjI9YtpBk7rItXeltesW%2Bio4JTkQlJmL9K5TLPz4UdfMTmMs5QFFVKE3RR6U5Tvt7di8%2FTQU22QvH7tOqNSTi03BinZerCtWOfOuo5j32Dp1FGmz7MYYCOrXm9V0uqT7LBPT7p4zHXigKQ6mdttwtW9jLFkXlUAw%2B8AOIcXlNZuZZI1bL6RzfF4gVtmECtsNlShS369ZfYSpWjX5VSyyeabrVmvRbBhQMQbycMCwfH%2BUljwDlJ6L6aHJVnGoBoCHgcEuRFFjpu%2BCvdxFZAXkUJeGqikAbhKjXKKcDSwW3FJgrQx%2F%2BCyr9yIZ6rQnsXQaSsMsUKX8OJBf5bolmzlOVPQekR%2FjjRvMZFeIDL40wfwwzjQpfxC2yi1Wp85cXTqqa9y5%2FyIT7w1756ddzXl0edX9byoyoshOGItRGJXX%2BfqAt6DUcFxzrODnt340ECE6JSDiHVLIzTAPdvKxnZDCRS4%2BT7vmlEbkjLO2luVbmadJBE4ChVKBLaTCF8%3D&ctl00%24UCMenuHeader1%24DpLink=0&ctl00_UCMenuHeader1_radMenuTop_ClientState=&ctl00_ContentPlaceHolder1_RadToolBarOrderList_ClientState=&ctl00%24ContentPlaceHolder1%24UCCallRecording1%24hidLoginUserID=&ctl00%24ContentPlaceHolder1%24UCCallRecording1%24hidASAPOrderID=&ctl00%24ContentPlaceHolder1%24UCCallRecording1%24hidCallCode=&ctl00%24ContentPlaceHolder1%24txtEmailAddress=fadsfdasfd%40fdfadafda.com&ctl00%24ContentPlaceHolder1%24radioMethod=radioSMS&ctl00%24ContentPlaceHolder1%24txtMobileNumber=3343548905&__ASYNCPOST=true&RadAJAXControlID=ctl00_ContentPlaceHolder1_rapModal
+
+
+
+
+==========================================================================
+============================= Response ===================================
+==========================================================================
+HTTP/2 200 OK
+
+Cache-Control: private
+
+Content-Type: text/plain; charset=utf-8
+
+Server: Microsoft-IIS/10.0
+
+X-Aspnet-Version: 4.0.30319
+
+X-Powered-By: ASP.NET
+
+X-Frame-Options: SAMEORIGIN
+
+P3p: CP=CAO PSA OUR
+
+Strict-Transport-Security: max-age=31536000
+
+Date: Sun, 13 Aug 2023 08:09:26 GMT
+
+Content-Length: 41492
+
+
+
+1|#||4|21877|updatePanel|ctl00_ContentPlaceHolder1_ctl00_ContentPlaceHolder1_rapModalPanel|<div id="ctl00_ContentPlaceHolder1_rapModal">
+
+	<!-- 2022.1.302.45 -->
+
+        <div id="divSCA" style="border-color: rgba(0,0,0,.65); height: 180px;">
+
+            <div id="divReset">
+
+                <div class="tc-head"></div>
+
+                <div class="tc-main">
+
+                    <span style="font-weight: bold; line-height: 20px; width: 100%; float: left;">
+
+                        <span id="ctl00_ContentPlaceHolder1_lblResetMessage"></span>
+
+                    </span>
+
+                </div>
+
+                <div class="tc-foot">
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnReset" value="Review customer information" onclick="closeDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnReset&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnReset" class="btn2 btn-continue" style="height:30px;width:200px;" />
+
+                    
+
+                </div>
+
+            </div>
+
+            <div id="divNewChange" style="display:none;">
+
+                <div class="tc-head"></div>
+
+                <div class="tc-main">
+
+                    <span style="font-weight: bold; line-height: 20px; width: 100%; float: left;">
+
+                        <span id="ctl00_ContentPlaceHolder1_lblPromptMessage"></span>
+
+                    </span>
+
+                </div>
+
+                <div class="tc-foot">
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnChangeProduct" value="Change Product" onclick="closeDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnChangeProduct&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnChangeProduct" class="btn2 btn-continue m_r5" style="height:30px;" />
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnStartNew" value="Start New" onclick="closeDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnStartNew&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnStartNew" class="btn2 btn-continue" style="height:30px;" />                    
+
+                </div>
+
+            </div>
+
+            <div id="divSalesCode800Num" style="display:none;">
+
+                <div class="tc-head"></div>
+
+                <div class="tc-main">
+
+                    <span style="font-weight: bold; line-height: 20px; width: 100%; float: left;">
+
+                        <span id="ctl00_ContentPlaceHolder1_lblSalesCode800Num"></span>
+
+                    </span>
+
+                </div>
+
+                <div class="tc-foot">
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnSalesCode800NumOK" value="OK" onclick="closeDiv(); return false;__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnSalesCode800NumOK&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnSalesCode800NumOK" class="btn2 btn-continue" style="height:30px;" />
+
+                </div>
+
+            </div>
+
+            <div id="divPortUnavailable" style="display:none;">
+
+                <div class="tc-head"></div>
+
+                <div class="tc-main">
+
+                    <span style="line-height: 20px; width: 100%; float: left; max-height: 80px; overflow-y: auto;">
+
+                        <span id="ctl00_ContentPlaceHolder1_lblPortMessage"></span>
+
+                    </span>
+
+                    <ul class="checkbox">
+
+                        <li style="width: 100%;">
+
+                            <div style="text-align: left; border: none; padding: 5px 0;">
+
+                                <label class="mt-radio">
+
+                                    <input id="ctl00_ContentPlaceHolder1_radioNewNumber" type="radio" name="ctl00$ContentPlaceHolder1$radioNewNumber" value="radioNewNumber" />
+
+                                    Please give me a new number. <span></span>
+
+                                </label>
+
+                            </div>
+
+                        </li>
+
+                    </ul>
+
+                </div>
+
+                <div class="tc-foot">
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnPortUnavailableOK" value="Continue" onclick="closeDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnPortUnavailableOK&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnPortUnavailableOK" class="btn2 btn-continue m_r5" style="height:30px;" />
+
+                    <input type="button" name="ctl00$ContentPlaceHolder1$btnPortUnavailableStartNew" value="Start New" onclick="closeDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnPortUnavailableStartNew&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_btnPortUnavailableStartNew" class="btn2 btn-continue" style="height:30px;" />
+
+                </div>
+
+            </div>
+
+        </div>
+
+        
+
+
+
+<div id="divCallRecordingPopup" style="height:250px; display:none;">
+
+    <div id="divCallRecordingPopupTitle" class="tc-head" style="padding-top:7px; padding-left:10px; font-weight:bold; color:white;">Message (Call Recording is Terminated)</div>
+
+    <div id="divCallRecordingPopupMessage" class="tc-main tc-tips">
+
+        The recorded line has disconnected. Please place the customer on hold, initiate a new call to the recorded line, and then join in the customer. To initiate the recording, please dial the number below and enter the 4-digit Call Code when prompted. Once the Call Code has been accepted, you will be prompted to join the customer to the recorded line.
+
+    </div>
+
+    <div class="tc-main" style="height:25px; margin-top:0;">
+
+        <span style="font-weight:bold;">Recorded Line: </span>
+
+        <span id="ctl00_ContentPlaceHolder1_UCCallRecording1_lblRecordedLine" style="color:#00853F; font-weight:bold;"></span>
+
+    </div>
+
+    <div class="tc-main" style="height:25px; margin-top:0;">
+
+        <span style="font-weight:bold;">Call Code: </span>
+
+        <span id="ctl00_ContentPlaceHolder1_UCCallRecording1_lblCallCode" style="color:#00853F; font-weight:bold;"></span>
+
+    </div>
+
+    <div class="tc-foot">
+
+        <input type="hidden" name="ctl00$ContentPlaceHolder1$UCCallRecording1$hidLoginUserID" id="ctl00_ContentPlaceHolder1_UCCallRecording1_hidLoginUserID" />
+
+        <input type="hidden" name="ctl00$ContentPlaceHolder1$UCCallRecording1$hidASAPOrderID" id="ctl00_ContentPlaceHolder1_UCCallRecording1_hidASAPOrderID" />
+
+        <input type="hidden" name="ctl00$ContentPlaceHolder1$UCCallRecording1$hidCallCode" id="ctl00_ContentPlaceHolder1_UCCallRecording1_hidCallCode" />
+
+        <input type="button" name="ctl00$ContentPlaceHolder1$UCCallRecording1$btnCancelOrder" value="Cancel Order" onclick="closeCallRecordingPopupDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$UCCallRecording1$btnCancelOrder&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_UCCallRecording1_btnCancelOrder" class="btn2 btn-cancel m_r5" style="height:30px;" />
+
+        <input type="button" name="ctl00$ContentPlaceHolder1$UCCallRecording1$btnContinueOrder" value="Continue" onclick="closeCallRecordingPopupDiv();__doPostBack(&#39;ctl00$ContentPlaceHolder1$UCCallRecording1$btnContinueOrder&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_UCCallRecording1_btnContinueOrder" class="btn2 btn-continue" style="height:30px;" />
+
+    </div>
+
+</div>
+
+<script src="../Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+
+<script src="../Scripts/jquery.signalR-2.4.1.min.js" type="text/javascript"></script>
+
+<script src="../signalr/hubs" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    var jq1102 = $.noConflict();
+
+    jq1102(function () {
+
+        if ("" == "1") {
+
+            var chat = jq1102.connection.MsgChat;
+
+            chat.client.BroadMsg = function (msg) {
+
+                var data = jq1102.parseJSON(msg);
+
+                var asapOrderId = jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidASAPOrderID").val();
+
+                var callCode = jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidCallCode").val();
+
+                if (data != null && data.ASAPOrderID == asapOrderId && data.CallCode == callCode) {
+
+                    if (data.CallStatus == "In Progress") {
+
+                        var btnContinueOrder = jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_btnContinueOrder");
+
+                        btnContinueOrder.removeAttr("disabled");
+
+                        btnContinueOrder.removeClass("btn-disable").addClass("btn-continue");
+
+                    }
+
+                    else if (data.CallStatus == "Terminated") {
+
+                        var loginUserId = jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidLoginUserID").val();
+
+                        jq1102.ajax({
+
+                            type: "GET",
+
+                            url: 'GetCallCode.ashx',
+
+                            async: true,
+
+                            data: "LoginUserId=" + loginUserId,
+
+                            dataType: "html",
+
+                            cache: false,
+
+                            success: function (content) {
+
+                                var dataJson = jq1102.parseJSON(content);
+
+                                if (dataJson != null && dataJson.CallCode != "") {
+
+                                    jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidASAPOrderID").val(dataJson.ASAPOrderID);
+
+                                    jq1102("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidCallCode").val(dataJson.CallCode);
+
+                                    openCallRecordingTerminatedDiv(dataJson.CallCode);
+
+                                }
+
+                            }
+
+                        });
+
+                    }
+
+                }
+
+            };
+
+
+
+            jq1102.connection.hub.start().done(function () { });
+
+            //jq1102.connection.hub.disconnected(function () {
+
+            //    setTimeout(function () {
+
+            //        jq1102.connection.hub.start();
+
+            //    }, 5000); // Restart connection after 5 seconds.
+
+            //});
+
+        }
+
+
+
+        if ("" == "1") {
+
+            if ("" == "1")
+
+                openCallRecordingDisconnectedDiv();
+
+            else
+
+                openCallRecordingTerminatedDiv();
+
+        }
+
+    });
+
+
+
+    function openCallRecordingTerminatedDiv(callCode) {
+
+        $("#divCallRecordingPopupTitle").html("Message (Call Recording is Terminated)");
+
+        $("#divCallRecordingPopupMessage").html("The recorded line has disconnected. Please place the customer on hold, initiate a new call to the recorded line, and then join in the customer. To initiate the recording, please dial the number below and enter the 4-digit Call Code when prompted. Once the Call Code has been accepted, you will be prompted to join the customer to the recorded line.");
+
+        var btnContinueOrder = $("#ctl00_ContentPlaceHolder1_UCCallRecording1_btnContinueOrder");
+
+        btnContinueOrder.removeClass("btn-continue").addClass("btn-disable");
+
+        btnContinueOrder.attr("disabled", "disabled");
+
+        if (typeof (callCode) != "undefined") {
+
+            $("#ctl00_ContentPlaceHolder1_UCCallRecording1_lblCallCode").html(callCode);
+
+            $("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidCallCode").val(callCode);
+
+        }
+
+
+
+        var divSCAVisible = $("#divSCA").length > 0 && $("#divSCA").is(":visible");
+
+        var tbLoadingVisible = $("#tbLoading").length > 0 && $("#tbLoading").is(":visible");
+
+        if ($("#divCallRecordingPopup").is(":visible") == false && !divSCAVisible && !tbLoadingVisible)
+
+            $("#divCallRecordingPopup").OpenDiv();
+
+    }
+
+
+
+    function openCallRecordingDisconnectedDiv(callCode) {
+
+        $("#divCallRecordingPopupTitle").html("Message (Customer Call is Disconnected)");
+
+        $("#divCallRecordingPopupMessage").html("Please hang up recorded line and call back customer. Once customer is back on the line, you will need to initiate a call to the recorded line and then join in the customer. To initiate the recording, please dial the number below and enter the 4-digit Call Code when prompted. Once the Call Code has been accepted, you will be prompted to join the customer to the recorded line.");
+
+        var btnContinueOrder = $("#ctl00_ContentPlaceHolder1_UCCallRecording1_btnContinueOrder");
+
+        btnContinueOrder.removeClass("btn-continue").addClass("btn-disable");
+
+        btnContinueOrder.attr("disabled", "disabled");
+
+        if (typeof (callCode) != "undefined") {
+
+            $("#ctl00_ContentPlaceHolder1_UCCallRecording1_lblCallCode").html(callCode);
+
+            $("#ctl00_ContentPlaceHolder1_UCCallRecording1_hidCallCode").val(callCode);
+
+        }
+
+
+
+        var divSCAVisible = $("#divSCA").length > 0 && $("#divSCA").is(":visible");
+
+        var tbLoadingVisible = $("#tbLoading").length > 0 && $("#tbLoading").is(":visible");
+
+        if ($("#divCallRecordingPopup").is(":visible") == false && !divSCAVisible && !tbLoadingVisible)
+
+            $("#divCallRecordingPopup").OpenDiv();
+
+    }
+
+
+
+    function closeCallRecordingPopupDiv() {
+
+        $("#divCallRecordingPopup").CloseDiv();
+
+    }
+
+</script>
+
+
+
+        <div class="BigDiv">
+
+            <div class="container">
+
+                
+
+
+
+<input type="hidden" id="hidTopCustomerType" value="Consumer" />
+
+<table class="topbar" cellpadding="0" cellspacing="0">
+
+    <tr>
+
+        <td id="tdone"></td>
+
+        <td id="tdtwo"></td>
+
+        <td id="tdthree"></td>
+
+        <td id="tdfour"></td>
+
+        <td id="tdfive" style="border-right:0;"></td>
+
+    </tr>
+
+</table>
+
+
+
+                <div class="row">
+
+                    <div class="row-l">
+
+                        <div class="row-l-c">
+
+                            <div class="title-layer">
+
+                                <h2 id="ctl00_ContentPlaceHolder1_h2Title" class="title4">To start your prepaid service we need to collect a credit card from you</h2>
+
+                                <div style="text-align: right; margin-right:50px; display:none;">
+
+                                    <label class="mt-checkbox">
+
+                                        <input id="ctl00_ContentPlaceHolder1_chkIsServiceAddress" type="checkbox" name="ctl00$ContentPlaceHolder1$chkIsServiceAddress" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$chkIsServiceAddress\&#39;,\&#39;\&#39;)&#39;, 0)" />
+
+                                        Same as billing information <span></span>
+
+                                    </label>
+
+                                </div>
+
+                            </div>
+
+                            
+
+                            <table id="ctl00_ContentPlaceHolder1_tbTotalCharges" cellpadding="0" cellspacing="0" class="tableborder6 m_t15 fs16 fw">
+
+		<tr>
+
+			<td class="td_l" style="border-bottom:0;">1st monthly service charge</td>
+
+			<td style="border-bottom:0;">$<span id="ctl00_ContentPlaceHolder1_lblMonthlyCharges">70.00</span></td>
+
+		</tr>
+
+		<tr>
+
+			<td colspan="2" style="padding-top:0; border-top:0; color:#555; font-style:italic; font-size:12px;">(this does not include taxes, surcharges and fees.)</td>
+
+		</tr>
+
+	</table>
+
+	
+
+                            
+
+                            <div id="divPurlMethod" style="display:none;">
+
+                                <div class="title-layer m_t15">
+
+                                    <h2 class="title4">How would you like to provide payment information?</h2>
+
+                                </div>
+
+                                <div style="width: 100%;">
+
+                                    <div class="bk1 m_t15">
+
+                                        <table class="rdoModem checkbox_xz2 fw radioMethod" border="0">
+
+		                                    <tbody>
+
+                                                <tr>
+
+			                                        <td>
+
+                                                        <div class="mt-radio-h w100" style="padding-top:10px; padding-bottom:10px;">
+
+                                                            <label class="mt-radio" style="width:70px;">
+
+                                                                <input id="ctl00_ContentPlaceHolder1_radioEmail" type="radio" name="ctl00$ContentPlaceHolder1$radioMethod" value="radioEmail" />
+
+                                                                Email<span></span><label class="redcolor"></label>
+
+                                                            </label>
+
+                                                            <input name="ctl00$ContentPlaceHolder1$txtEmailAddress" type="text" value="fadsfdasfd@fdfadafda.com" id="ctl00_ContentPlaceHolder1_txtEmailAddress" class="bg-green1" placeholder="Email address" style="height:30px;width:300px;" />
+
+                                                        </div>
+
+			                                        </td>
+
+		                                        </tr>
+
+                                                <tr>
+
+			                                        <td>
+
+                                                        <div class="mt-radio-h w100" style="padding-top:10px; padding-bottom:10px;">
+
+                                                            <label class="mt-radio" style="width:70px;">
+
+                                                                <input id="ctl00_ContentPlaceHolder1_radioSMS" type="radio" name="ctl00$ContentPlaceHolder1$radioMethod" value="radioSMS" checked="checked" />
+
+                                                                Text<span></span><label class="redcolor"></label>
+
+                                                            </label>
+
+                                                            <input name="ctl00$ContentPlaceHolder1$txtMobileNumber" type="text" value="3343548905" id="ctl00_ContentPlaceHolder1_txtMobileNumber" class="bg-green1" placeholder="Mobile number" style="height:30px;width:300px;" />
+
+                                                        </div>
+
+			                                        </td>
+
+		                                        </tr>
+
+	                                        </tbody>
+
+                                        </table>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="bk1 m_t15 text-center fs14 fw l_h">
+
+                                <p>NOTE: Your card will not be charged until your order is submitted. <br />To start the Secure Credit Card collection please click the continue button to send the notification to the customer.</p>
+
+                            </div>
+
+                            <div id="divErrorMessage" class="alert alert-warning">
+
+                                <span id="ctl00_ContentPlaceHolder1_lblErrorMessage" class="redcolor">The order cannot continue until card details have been successfully tokenized. Please check your text and provide payment information.</span>
+
+                            </div>
+
+                            <table cellpadding="0" cellspacing="0" class="buttonDiv fl m_t15 postion-r">
+
+                                <tr>
+
+                                    <td class="buttotLeft">
+
+                                        <input type="button" name="ctl00$ContentPlaceHolder1$ibtnBack" value="Back" onclick="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$ibtnBack&#39;,&#39;&#39;)" id="ctl00_ContentPlaceHolder1_ibtnBack" class="btn btn-back" />
+
+                                    </td>
+
+                                    <td class="buttonRight">                                        
+
+                                        <input type="button" name="ctl00$ContentPlaceHolder1$ibtnContinue" value="Resend Text" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$ibtnContinue&quot;, &quot;&quot;, true, &quot;vgPURL&quot;, &quot;&quot;, false, true))" id="ctl00_ContentPlaceHolder1_ibtnContinue" class="btn btn-continue" ErrorNumber="0" style="width:110px;" />
+
+                                        <input type="button" name="ctl00$ContentPlaceHolder1$ibtnRetrieve" value="Retrieve Payment" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$ibtnRetrieve&quot;, &quot;&quot;, true, &quot;vgPURL&quot;, &quot;&quot;, false, true))" id="ctl00_ContentPlaceHolder1_ibtnRetrieve" class="btn btn-continue m_l10" style="width:130px;" />
+
+                                        <div id="divRetrieveTips" class="btnRetrieveTips">When the customer has confirmed completion of their credit card entry select retrieve.</div>
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                    </td>
+
+                                </tr>
+
+                            </table>
+
+                        </div>
+
+                    </div>
+
+                    <div class="row-r postion-r">
+
+                        <div class="info-box2">
+
+                            
+
+
+
+<table cellpadding="0" cellspacing="0" class="AddressTable" style="max-width:300px;">
+
+    <tr>
+
+        <td>
+
+            
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td>
+
+            <span id="ctl00_ContentPlaceHolder1_UCUserAddress1_lblTransactionId">1691912932773fcc</span>
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td>
+
+            <b>Name - </b>
+
+            <span id="ctl00_ContentPlaceHolder1_UCUserAddress1_lblName">Bob Bobson</span>
+
+        </td>
+
+    </tr>
+
+    
+
+    
+
+    <tr id="ctl00_ContentPlaceHolder1_UCUserAddress1_trAddress">
+
+		<td>
+
+            <b style="width:68px;">Address - </b>
+
+            <span id="ctl00_ContentPlaceHolder1_UCUserAddress1_lblAddress">3 W MEADOW VIEW LN WASHINGTON UT 84780</span>
+
+        </td>
+
+	</tr>
+
+	
+
+</table>
+
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    
+
+</div>|0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||9196|hiddenField|__VIEWSTATE|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|8|hiddenField|__VIEWSTATEGENERATOR|24CD291C|0|hiddenField|__VIEWSTATEENCRYPTED||640|hiddenField|__EVENTVALIDATION|+tesQZgjk2LJlD2P+z0DbZjYuypCtBfUrR08/wljIfiOZiG0AfLafb4KXk0niCvvzxtjEDFel8z1gYxFsa6SMlTgtI8ap+HhvOPqNI5ouI6MwUFU3tzLOtqVK+zcvUlnRYmY8QmC02rODwIOvMqLZKzgMsxrYGQDMl4WTuFH00eWMCkLWxifAXjgouVAMgqdz31IOGTKSWDil9jq5XTZfnQFK8Qd5+Y4y+G9eT/YPtda+g43KWbEtbnUEnJNPtScHPHhQUHRBPAHjAhN0arPW5jzbRLeIf+w8pIPl2soC35FFM6yKomkJS1SINTwuO+oXkMLU+N9HbyiWku6tbSUwKsV/UqqbmrsgE/9KWmtGulhFe09ew/Tpqc87jhoMW6ld1ECyvuIKQ1I6Xnr7ZFpXrQ4535GDuFFGnO/pp5JkoRwPC7my4qokGyLKfCN18NcPiqlB+Y0rI/eG9B19U0JpaRxWgkFXxPp6VOFEpuGZVdXUz8jcyLsGCSrp4GdKudurQFub4e2FdKuqqSsfN4iy+nRnoGYVki40rrRemOUHsUFENN0CgouOC5XCo1OJZxcSC4RhNcikJSltqOCJJV4LUHXx8o4tX9WS2rtu1fyTbnSknBrzRUXJaudkhT4TCtY|0|asyncPostBackControlIDs|||0|postBackControlIDs|||67|updatePanelIDs||tctl00$ContentPlaceHolder1$ctl00$ContentPlaceHolder1$rapModalPanel,|0|childUpdatePanelIDs|||66|panelsToRefreshIDs||ctl00$ContentPlaceHolder1$ctl00$ContentPlaceHolder1$rapModalPanel,|3|asyncPostBackTimeout||300|37|formAction||./PxCTLReviewandVerificationPURL.aspx|16|pageTitle||CenturyLink ASAP|113|scriptBlock|ScriptPath|/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_radScriptManager_TSM&compress=1&_TSM_CombinedScripts_=%3b|70|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery-1.4.2.min.js","type":"text/javascript"}|69|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/ControlEnterNum.js","type":"text/javascript"}|80|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery-ui-1.8.4.custom.min.js","type":"text/javascript"}|76|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery-1[1].3.2-vsdoc2.js","type":"text/javascript"}|82|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery.maskedinput-1.2.2.min.js","type":"text/javascript"}|60|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery.js","type":"text/javascript"}|67|scriptBlock|ScriptContentWithTags|{"text":"","src":"../Js/jquery.divbox.js","type":"text/javascript"}|4317|scriptBlock|ScriptContentWithTags|{"text":"\r\n            var chatIdentifier = \"\";\r\n            $(function () {\r\n                $(\":text\").attr(\"autocomplete\", \"off\");\r\n                $(\"#fromtable :text\").removeAttr(\"autocomplete\");\r\n                $(\".Radmenubarright :text\").removeAttr(\"autocomplete\");\r\n                var system = {\r\n                    win: false,\r\n                    mac: false,\r\n                    xll: false,\r\n                    ipad: false\r\n                };\r\n\r\n                //检测平台 \r\n                var p = navigator.platform;\r\n                system.win = p.indexOf(\"Win\") == 0;\r\n                system.mac = p.indexOf(\"Mac\") == 0;\r\n                system.x11 = (p == \"X11\") || (p.indexOf(\"Linux\") == 0);\r\n                system.ipad = (navigator.userAgent.match(/iPad/i) != null) ? true : false;\r\n\r\n                //如果是Ipad访问更改div的宽度\r\n                //if (system.ipad) {\r\n                //    $(\"#divGrid\").css({ width: \"800px\" });\r\n                //}\r\n\r\n                var url = window.location.href;\r\n                if (url.indexOf(\"localhost\") == -1 \u0026\u0026 url.indexOf(\"192.168.1.\") == -1 \u0026\u0026 url.indexOf(\"demo.telamonglobal.com\") == -1) {\r\n                    if (url.indexOf(\"12.217.82.155\") == -1) {\r\n                        if (window.location != null \u0026\u0026 window.location != undefined \u0026\u0026 url.indexOf(\"https:\") == -1) {\r\n                            window.location = url.replace(\"http\", \"https\");\r\n                        }\r\n                    }\r\n                    else {\r\n                        window.location = \"https://asap.docxtract.com/General/SimHomePage.aspx\";\r\n                    }\r\n                }\r\n\r\n                $(\".loading\").parent().css({ \"height\": \"100% !important\", \"z-index\": \"9999\" });\r\n\r\n                var customerType = \"Consumer\";\r\n                if (url.indexOf(\"/Orders/\") \u003e 0 \u0026\u0026 (url.indexOf(\"/CTL\") \u003e 0 || url.indexOf(\"PrequalOrder\") \u003e 0 || url.indexOf(\"QualOrder\") \u003e 0) \u0026\u0026 customerType == \"Business\")\r\n                    $(\"#indirect-cris-english\").hide();\r\n                else\r\n                    $(\"#indirect-cris-english\").show();\r\n            });\r\n\r\n            function EnterKeyCode() {\r\n                if (event.keyCode == 13) {\r\n                    try {\r\n                        if (typeof (eval(\"EnterEvent\")) == \"function\") {\r\n                            return EnterEvent();\r\n                        }\r\n                    } catch (e) {\r\n                        return false;\r\n                    }\r\n                }\r\n                return true;\r\n            }\r\n\r\n            function openDiv() {\r\n                $(\"#divSCA\").OpenDiv();\r\n            }\r\n\r\n            function closeDiv() {\r\n                $(\"#divSCA\").CloseDiv();\r\n            }\r\n\r\n            function openCancelDiv() {\r\n                $(\"#divSCACancel\").OpenDiv();\r\n            }\r\n\r\n            function closeCancelDiv() {\r\n                $(\"#divSCACancel\").CloseDiv();\r\n            }\r\n\r\n            function openLoadingDiv() {\r\n                $(\"#divLoading\").OpenDiv();\r\n            }\r\n\r\n            function closeLoadingDiv() {\r\n                $(\"#divLoading\").CloseDiv();\r\n            }\r\n\r\n            var MyInterval;\r\n            function MyClientShowing(sender, eventArgs) {\r\n                MyInterval = setInterval(\r\n                    function () {\r\n                        var times = $(\".timing\").html() != \"\u0026nbsp;\" ? parseInt($(\".timing\").html()) : 0;\r\n                        $(\".timing\").html(times + 1);\r\n                        if (times \u003e 300) {\r\n                            MyClientHiding(null, null);\r\n                            $(\"#tbLoading\").parent().hide();\r\n                        }\r\n                    }\r\n                    , 1000);\r\n            }\r\n\r\n            function MyClientHiding(sender, eventArgs) {\r\n                clearInterval(MyInterval);\r\n                $(\".timing\").html(\"\u0026nbsp;\");\r\n            }\r\n        ","type":"text/javascript"}|61|scriptStartupBlock|ScriptContentNoTags|window.__TsmHiddenField = $get('ctl00_radScriptManager_TSM');|3646|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":["../Css/listtablestyle.css","../Css/common.css","../Css/supplement.css","../Css/Grid.css","../Css/jquery-ui-1.8.4.custom.css","../Css/top.css","../Chat/sfdcChatLauncher.css","../Css/ie9.css","../Css/ie8.css"],"loadingPanelID":"ctl00_RadAjaxLoadingPanel1","styles":["\r\n        .Copyrighttext {\r\n            text-align: right;\r\n            padding: 0;\r\n            clear: both;\r\n            margin-top: 5px;\r\n        }\r\n\r\n        .loading {\r\n            background-color: #fff;\r\n            height: 100%;\r\n            width: 100%;\r\n        }\r\n\r\n        #divSCA, #divSCACancel, #divCallRecordingPopup {\r\n            position: absolute;\r\n            top: 50%;\r\n            left: 50% !important;\r\n            width: 460px;\r\n            height: 200px;\r\n            font-size: 12px;\r\n            background: #fff;\r\n            border: 0px solid #000;\r\n            z-index: 10001;\r\n            display: none;\r\n            padding: 0;\r\n            margin-top: -200px;\r\n            border: 1px solid gray;\r\n            margin-left: -260px !important;\r\n            border: 1px solid #ccc;\r\n            border-radius: 6px;\r\n            background: #fff;\r\n            -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.25);\r\n            -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.25);\r\n            box-shadow: 0 1px 3px #a0a0a0;\r\n            box-shadow: 0 1px 3px rgba(0,0,0,0.25);\r\n        }\r\n\r\n        .tc-head {\r\n            width: 100%;\r\n            height: 30px;\r\n            background: #00853F;\r\n            border-radius: 6px 6px 0 0;\r\n            position: relative;\r\n        }\r\n\r\n        .tc-foot {\r\n            width: 100%;\r\n            height: 45px;\r\n            position: absolute;\r\n            bottom: 0;\r\n            left: 0;\r\n            background: #fafafa;\r\n            border-radius: 0 0 6px 6px;\r\n            border-top: #dbdbdb 1px solid;\r\n            padding: 6px 15px 0;\r\n            text-align: right;\r\n        }\r\n\r\n        .tc-main {\r\n            padding: 0 20px;\r\n            margin-top: 15px;\r\n            height: 97px;\r\n            float: left;\r\n            width: 100%;\r\n            box-sizing: border-box;\r\n        }\r\n\r\n            .tc-main.tc-tips {\r\n                overflow-y: auto;\r\n                line-height: 1.4;\r\n            }\r\n\r\n        .timer {\r\n            background: url(../images/CTL_Images/loading.gif) no-repeat center;\r\n            width: 100px;\r\n            height: 100px;\r\n            background-size: 100%;\r\n            position: absolute;\r\n            z-index: 9999;\r\n            top: 50%;\r\n            left: 50%;\r\n            margin-top: -50px;\r\n            margin-left: -50px;\r\n            position: fixed;\r\n            transform: translateY(-50%);\r\n        }\r\n\r\n            .timer .timing {\r\n                width: 60px;\r\n                height: 30px;\r\n                position: absolute;\r\n                left: 50%;\r\n                top: 50%;\r\n                margin-top: -20px;\r\n                margin-left: -31px;\r\n                /*color: #00853f;*/\r\n                color: #ff6319;\r\n                text-align: center;\r\n                font-size: 40px;\r\n                font-weight: 700;\r\n            }\r\n    "],"uniqueID":"ctl00$ContentPlaceHolder1$rapModal"}, null, null, $get("ctl00_ContentPlaceHolder1_rapModal"));
+
+});
+
+|

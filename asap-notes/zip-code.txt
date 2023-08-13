@@ -1,0 +1,62 @@
+GET /Orders/GetState.ashx?_=1691912191440&ZipCode=84780 HTTP/2
+
+Host: asap.docxtract.com
+
+Cookie: ASP.NET_SessionId=wgx00exddqewzra5f3wbue2g; CTL_ASAP=EA694A6C00EC474BDA014AACC98B33F8DBC833D8A20E465581B771F28A7975CA0C7CB9E1BAC42DCF4F1EA209593FAB7281942788812E39A9E5DDEFD6191D419C555EB81B4D72E0BB6D4DA5A425622968FAA72953B55FF02B5ACB5F4B30EE2167
+
+Sec-Ch-Ua: 
+
+Accept: text/html, */*
+
+X-Requested-With: XMLHttpRequest
+
+Sec-Ch-Ua-Mobile: ?0
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.171 Safari/537.36
+
+Sec-Ch-Ua-Platform: ""
+
+Sec-Fetch-Site: same-origin
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Dest: empty
+
+Referer: https://asap.docxtract.com/Orders/PrequalOrder.aspx
+
+Accept-Encoding: gzip, deflate
+
+Accept-Language: en-US,en;q=0.9
+
+
+
+
+==========================================================================
+============================= Response ===================================
+==========================================================================
+
+HTTP/2 200 OK
+
+Cache-Control: private
+
+Content-Type: text/html; charset=utf-8
+
+Server: Microsoft-IIS/10.0
+
+X-Aspnet-Version: 4.0.30319
+
+X-Powered-By: ASP.NET
+
+X-Frame-Options: SAMEORIGIN
+
+P3p: CP=CAO PSA OUR
+
+Strict-Transport-Security: max-age=31536000
+
+Date: Sun, 13 Aug 2023 07:41:23 GMT
+
+Content-Length: 2
+
+
+
+UT
